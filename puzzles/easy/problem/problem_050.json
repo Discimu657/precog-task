@@ -1,0 +1,26 @@
+{
+  "problem_id": "050",
+  "initial_string": "},xQK},},xQK},xQ},xQ},xQKK},xQKKxQK",
+  "transitions": [
+    {
+      "src": "/WDy",
+      "tgt": ""
+    },
+    {
+      "src": "},xQK",
+      "tgt": ""
+    },
+    {
+      "src": ":@e",
+      "tgt": ""
+    },
+    {
+      "src": "kq-\\",
+      "tgt": ""
+    },
+    {
+      "src": "r@(&y",
+      "tgt": ""
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "problem_id": "002",
+  "initial_string": "~uaNxyuaNuauaNNuaNupuaN",
+  "transitions": [
+    {
+      "src": "~xyup",
+      "tgt": ""
+    },
+    {
+      "src": "N$DC",
+      "tgt": ""
+    },
+    {
+      "src": ";-NK",
+      "tgt": ""
+    },
+    {
+      "src": "|m?Xm",
+      "tgt": ""
+    },
+    {
+      "src": "uaN",
+      "tgt": ""
+    }
+  ]
+}

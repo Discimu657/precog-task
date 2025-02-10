@@ -1,0 +1,26 @@
+{
+  "problem_id": "013",
+  "initial_string": "[i[i/g,yyZyZyyZyyZykXfm/gm",
+  "transitions": [
+    {
+      "src": "k#-",
+      "tgt": ""
+    },
+    {
+      "src": ",kXf",
+      "tgt": ""
+    },
+    {
+      "src": "yZy",
+      "tgt": ""
+    },
+    {
+      "src": "/(I\"",
+      "tgt": ""
+    },
+    {
+      "src": "[i/gm",
+      "tgt": ""
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "problem_id": "027",
+  "initial_string": "&#Be\"?OhnEYWC",
+  "transitions": [
+    {
+      "src": "\\Z/&",
+      "tgt": ""
+    },
+    {
+      "src": "G}W(}",
+      "tgt": ""
+    },
+    {
+      "src": "?OFY",
+      "tgt": ""
+    },
+    {
+      "src": "&wD",
+      "tgt": "\\Z/&\\"
+    },
+    {
+      "src": "#Be\"",
+      "tgt": "\\Z/&w"
+    },
+    {
+      "src": "WC",
+      "tgt": "&\\Z/&"
+    },
+    {
+      "src": "hnEY",
+      "tgt": "FYDZ/"
+    }
+  ]
+}

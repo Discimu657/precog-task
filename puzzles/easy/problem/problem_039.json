@@ -1,0 +1,26 @@
+{
+  "problem_id": "039",
+  "initial_string": "f~,xEx_,xE>:,xE,xEKx,xEvX",
+  "transitions": [
+    {
+      "src": ">:Kxv",
+      "tgt": ""
+    },
+    {
+      "src": "LL@F",
+      "tgt": ""
+    },
+    {
+      "src": "f~x_X",
+      "tgt": ""
+    },
+    {
+      "src": ",xE",
+      "tgt": ""
+    },
+    {
+      "src": "=oT;",
+      "tgt": ""
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "problem_id": "014",
+  "initial_string": ":Rb_j:&`",
+  "transitions": [
+    {
+      "src": "<K?",
+      "tgt": ""
+    },
+    {
+      "src": ":eGL",
+      "tgt": ""
+    },
+    {
+      "src": "tpm",
+      "tgt": ""
+    },
+    {
+      "src": "o#",
+      "tgt": "ptpmm"
+    },
+    {
+      "src": "RL|B",
+      "tgt": "eGLto"
+    },
+    {
+      "src": "b_j",
+      "tgt": "L|B<K"
+    },
+    {
+      "src": "&`",
+      "tgt": "eGL?#"
+    }
+  ]
+}

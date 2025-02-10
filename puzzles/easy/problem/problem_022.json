@@ -1,0 +1,26 @@
+{
+  "problem_id": "022",
+  "initial_string": "u!=\"uT`x=\"u==\"uT`=\"uT`\"uT`T`=\"uT`>",
+  "transitions": [
+    {
+      "src": "&$J{",
+      "tgt": ""
+    },
+    {
+      "src": "gAqW@",
+      "tgt": ""
+    },
+    {
+      "src": "u!x>",
+      "tgt": ""
+    },
+    {
+      "src": "Uzyf",
+      "tgt": ""
+    },
+    {
+      "src": "=\"uT`",
+      "tgt": ""
+    }
+  ]
+}

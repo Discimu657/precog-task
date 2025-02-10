@@ -1,0 +1,38 @@
+{
+  "problem_id": "017",
+  "initial_string": "H]m\\dFlT]",
+  "transitions": [
+    {
+      "src": "-zy",
+      "tgt": ""
+    },
+    {
+      "src": "{dy~n",
+      "tgt": ""
+    },
+    {
+      "src": "\\dFE)",
+      "tgt": ""
+    },
+    {
+      "src": "_C",
+      "tgt": "\\dFE)"
+    },
+    {
+      "src": "HB",
+      "tgt": "_\\dFE"
+    },
+    {
+      "src": "v^",
+      "tgt": "B)C-z"
+    },
+    {
+      "src": "]m",
+      "tgt": "v\\dFE"
+    },
+    {
+      "src": "lT]",
+      "tgt": "E))^y"
+    }
+  ]
+}

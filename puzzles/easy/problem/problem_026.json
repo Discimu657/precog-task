@@ -1,0 +1,26 @@
+{
+  "problem_id": "026",
+  "initial_string": "Q:w^y?Pm'D;'^^y?Pmy?P^y?PmmD;ZZ~",
+  "transitions": [
+    {
+      "src": "'D;Z",
+      "tgt": ""
+    },
+    {
+      "src": "cAo/",
+      "tgt": ""
+    },
+    {
+      "src": "Q:w~",
+      "tgt": ""
+    },
+    {
+      "src": "^y?Pm",
+      "tgt": ""
+    },
+    {
+      "src": "Qz~^",
+      "tgt": ""
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "problem_id": "011",
+  "initial_string": "aNsbSF+bSFbSbSF+F++bSF+*>!nE<",
+  "transitions": [
+    {
+      "src": "bSF+",
+      "tgt": ""
+    },
+    {
+      "src": "s*>!n",
+      "tgt": ""
+    },
+    {
+      "src": "aNE<",
+      "tgt": ""
+    },
+    {
+      "src": "cs-z",
+      "tgt": ""
+    },
+    {
+      "src": "@am@'",
+      "tgt": ""
+    }
+  ]
+}

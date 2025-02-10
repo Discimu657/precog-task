@@ -1,0 +1,26 @@
+{
+  "problem_id": "006",
+  "initial_string": "\"e&T*R_&T*&T*R_R_&T*R_&T*&T*R_R_`},",
+  "transitions": [
+    {
+      "src": "TrO(^",
+      "tgt": ""
+    },
+    {
+      "src": "?A=p_",
+      "tgt": ""
+    },
+    {
+      "src": "&T*R_",
+      "tgt": ""
+    },
+    {
+      "src": "TNT\"",
+      "tgt": ""
+    },
+    {
+      "src": "\"e`},",
+      "tgt": ""
+    }
+  ]
+}

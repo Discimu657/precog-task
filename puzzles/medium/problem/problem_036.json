@@ -1,0 +1,38 @@
+{
+  "problem_id": "036",
+  "initial_string": "d![R/@A{\\`ya,.",
+  "transitions": [
+    {
+      "src": "![R/@",
+      "tgt": ""
+    },
+    {
+      "src": "\\sU",
+      "tgt": ""
+    },
+    {
+      "src": "IwNv^",
+      "tgt": ""
+    },
+    {
+      "src": "dAXk",
+      "tgt": "![R/@"
+    },
+    {
+      "src": "{n",
+      "tgt": "IwNv^"
+    },
+    {
+      "src": "Jyo",
+      "tgt": "nX![R"
+    },
+    {
+      "src": "`yV/",
+      "tgt": "sUJyo"
+    },
+    {
+      "src": "a,.",
+      "tgt": "V//@k"
+    }
+  ]
+}

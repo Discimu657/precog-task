@@ -1,0 +1,26 @@
+{
+  "problem_id": "030",
+  "initial_string": "KMaxE:Z,DMaxE:MaxE:tF)p:MaxE:C_z^",
+  "transitions": [
+    {
+      "src": "DtF)",
+      "tgt": ""
+    },
+    {
+      "src": "KC_z^",
+      "tgt": ""
+    },
+    {
+      "src": "Z,p:",
+      "tgt": ""
+    },
+    {
+      "src": "MaxE:",
+      "tgt": ""
+    },
+    {
+      "src": "%MZ<b",
+      "tgt": ""
+    }
+  ]
+}

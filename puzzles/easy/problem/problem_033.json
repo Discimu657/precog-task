@@ -1,0 +1,26 @@
+{
+  "problem_id": "033",
+  "initial_string": "BV+oV+o+V+o@V+o$V+V+oon",
+  "transitions": [
+    {
+      "src": "V+o",
+      "tgt": ""
+    },
+    {
+      "src": "iob=",
+      "tgt": ""
+    },
+    {
+      "src": "::U`e",
+      "tgt": ""
+    },
+    {
+      "src": "Ht\"",
+      "tgt": ""
+    },
+    {
+      "src": "B+@$n",
+      "tgt": ""
+    }
+  ]
+}

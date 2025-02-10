@@ -1,0 +1,26 @@
+{
+  "problem_id": "003",
+  "initial_string": "?bGX?bGX[bGX[bGX[bj&[bGX[bj&",
+  "transitions": [
+    {
+      "src": "!F?`",
+      "tgt": ""
+    },
+    {
+      "src": "?bj&",
+      "tgt": ""
+    },
+    {
+      "src": "bGX[",
+      "tgt": ""
+    },
+    {
+      "src": "=tJY",
+      "tgt": ""
+    },
+    {
+      "src": "PURC\\",
+      "tgt": ""
+    }
+  ]
+}

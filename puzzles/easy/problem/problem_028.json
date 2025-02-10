@@ -1,0 +1,26 @@
+{
+  "problem_id": "028",
+  "initial_string": "R<~R<~ZZR<~ZRRR<~Z<~ZR<~Z<~Z",
+  "transitions": [
+    {
+      "src": ")\\\"(:",
+      "tgt": ""
+    },
+    {
+      "src": "zgq~m",
+      "tgt": ""
+    },
+    {
+      "src": "uc+",
+      "tgt": ""
+    },
+    {
+      "src": "R<~Z",
+      "tgt": ""
+    },
+    {
+      "src": "bI,Ub",
+      "tgt": ""
+    }
+  ]
+}

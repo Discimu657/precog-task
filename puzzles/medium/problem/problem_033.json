@@ -1,0 +1,34 @@
+{
+  "problem_id": "033",
+  "initial_string": "%UjQ^\"gMM{'",
+  "transitions": [
+    {
+      "src": "%wo",
+      "tgt": ""
+    },
+    {
+      "src": "xI{'",
+      "tgt": ""
+    },
+    {
+      "src": "UjQaR",
+      "tgt": ""
+    },
+    {
+      "src": "*z",
+      "tgt": "xI{'o"
+    },
+    {
+      "src": "&+y",
+      "tgt": "aRw*z"
+    },
+    {
+      "src": "^\"M%",
+      "tgt": "&+yxI"
+    },
+    {
+      "src": "gMM",
+      "tgt": "%woM%"
+    }
+  ]
+}

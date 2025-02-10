@@ -1,0 +1,26 @@
+{
+  "problem_id": "036",
+  "initial_string": "WHz)udgWHz)YvKcWHz)}{HCWHz)",
+  "transitions": [
+    {
+      "src": "]Z^hx",
+      "tgt": ""
+    },
+    {
+      "src": "WHz)",
+      "tgt": ""
+    },
+    {
+      "src": "Yv{H",
+      "tgt": ""
+    },
+    {
+      "src": "Kc}",
+      "tgt": ""
+    },
+    {
+      "src": "udgC",
+      "tgt": ""
+    }
+  ]
+}

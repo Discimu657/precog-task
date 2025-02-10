@@ -1,0 +1,26 @@
+{
+  "problem_id": "001",
+  "initial_string": "hkhk+}<bo@W<boR\\VUk<bo|k|",
+  "transitions": [
+    {
+      "src": "+}VU",
+      "tgt": ""
+    },
+    {
+      "src": "<bo",
+      "tgt": ""
+    },
+    {
+      "src": "'&Xon",
+      "tgt": ""
+    },
+    {
+      "src": "@WR\\",
+      "tgt": ""
+    },
+    {
+      "src": "hkk|",
+      "tgt": ""
+    }
+  ]
+}

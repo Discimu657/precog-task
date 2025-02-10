@@ -1,0 +1,38 @@
+{
+  "problem_id": "034",
+  "initial_string": "BY{ZT-{$+?]]!",
+  "transitions": [
+    {
+      "src": "=ZT-{",
+      "tgt": ""
+    },
+    {
+      "src": "rdGm,",
+      "tgt": ""
+    },
+    {
+      "src": "?E`G",
+      "tgt": ""
+    },
+    {
+      "src": "MG!",
+      "tgt": "rdGm,"
+    },
+    {
+      "src": "]>",
+      "tgt": "MG=ZT"
+    },
+    {
+      "src": "H]]",
+      "tgt": "`G>-{"
+    },
+    {
+      "src": "{$+?",
+      "tgt": "{]?EH"
+    },
+    {
+      "src": "BY",
+      "tgt": "==ZT-"
+    }
+  ]
+}

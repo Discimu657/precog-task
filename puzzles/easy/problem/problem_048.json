@@ -1,0 +1,26 @@
+{
+  "problem_id": "048",
+  "initial_string": "ZGbIO&$GbIGbIO&OGGbIO&bIO&&GbIO&O-",
+  "transitions": [
+    {
+      "src": "krk!",
+      "tgt": ""
+    },
+    {
+      "src": "Z$O-",
+      "tgt": ""
+    },
+    {
+      "src": "tYM~C",
+      "tgt": ""
+    },
+    {
+      "src": "RCq",
+      "tgt": ""
+    },
+    {
+      "src": "GbIO&",
+      "tgt": ""
+    }
+  ]
+}

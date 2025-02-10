@@ -1,0 +1,26 @@
+{
+  "problem_id": "012",
+  "initial_string": "MMSMSIwMSIwOOMSIwOIwOSIwOMSIMSIwOwO",
+  "transitions": [
+    {
+      "src": "L{Jt&",
+      "tgt": ""
+    },
+    {
+      "src": "^zLOm",
+      "tgt": ""
+    },
+    {
+      "src": "MSIwO",
+      "tgt": ""
+    },
+    {
+      "src": "GhdUB",
+      "tgt": ""
+    },
+    {
+      "src": "%U][n",
+      "tgt": ""
+    }
+  ]
+}

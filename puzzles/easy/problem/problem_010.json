@@ -1,0 +1,26 @@
+{
+  "problem_id": "010",
+  "initial_string": "+gN,|)T+++Vu^Vu^gN+Vu^=Vg=+Vu^V",
+  "transitions": [
+    {
+      "src": "Kf\"D`",
+      "tgt": ""
+    },
+    {
+      "src": "+gN=V",
+      "tgt": ""
+    },
+    {
+      "src": "/(u",
+      "tgt": ""
+    },
+    {
+      "src": "+Vu^",
+      "tgt": ""
+    },
+    {
+      "src": ",|)Tg",
+      "tgt": ""
+    }
+  ]
+}

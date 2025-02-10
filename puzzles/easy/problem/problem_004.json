@@ -1,0 +1,26 @@
+{
+  "problem_id": "004",
+  "initial_string": "u/CJuu/CJu/CJ/Cu/uu/CJ/CJCJJ",
+  "transitions": [
+    {
+      "src": "mB(s@",
+      "tgt": ""
+    },
+    {
+      "src": "sbgX",
+      "tgt": ""
+    },
+    {
+      "src": "chvx",
+      "tgt": ""
+    },
+    {
+      "src": "u/CJ",
+      "tgt": ""
+    },
+    {
+      "src": "D.)",
+      "tgt": ""
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "problem_id": "040",
+  "initial_string": "TTT,X{,X{T,XT,XT,X{{{,T,X{X{",
+  "transitions": [
+    {
+      "src": "jOm",
+      "tgt": ""
+    },
+    {
+      "src": "[d.",
+      "tgt": ""
+    },
+    {
+      "src": "T\"^",
+      "tgt": ""
+    },
+    {
+      "src": "T,X{",
+      "tgt": ""
+    },
+    {
+      "src": "|bs+^",
+      "tgt": ""
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "problem_id": "015",
+  "initial_string": "d*#f/N/'l",
+  "transitions": [
+    {
+      "src": "*N*",
+      "tgt": ""
+    },
+    {
+      "src": "Hvl",
+      "tgt": ""
+    },
+    {
+      "src": "y=[*p",
+      "tgt": ""
+    },
+    {
+      "src": "d-#G",
+      "tgt": "Hv*N*"
+    },
+    {
+      "src": "Y@Q",
+      "tgt": "-#Hvl"
+    },
+    {
+      "src": "t/'",
+      "tgt": "vl@QG"
+    },
+    {
+      "src": "#f/N",
+      "tgt": "N*YHt"
+    }
+  ]
+}

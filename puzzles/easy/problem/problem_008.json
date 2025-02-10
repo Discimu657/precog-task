@@ -1,0 +1,26 @@
+{
+  "problem_id": "008",
+  "initial_string": "x;X\\Yg}uLYYg}Yg}uug}Yg}uu!=-",
+  "transitions": [
+    {
+      "src": "Yg}u",
+      "tgt": ""
+    },
+    {
+      "src": "x;X-",
+      "tgt": ""
+    },
+    {
+      "src": "\\L!=",
+      "tgt": ""
+    },
+    {
+      "src": "@P\\Yz",
+      "tgt": ""
+    },
+    {
+      "src": "ghUf",
+      "tgt": ""
+    }
+  ]
+}

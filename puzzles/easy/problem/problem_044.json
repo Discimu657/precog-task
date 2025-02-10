@@ -1,0 +1,26 @@
+{
+  "problem_id": "044",
+  "initial_string": "jj:,j:,:,j:ai?jj:,:,Cz,",
+  "transitions": [
+    {
+      "src": "|nZ$",
+      "tgt": ""
+    },
+    {
+      "src": "j:,",
+      "tgt": ""
+    },
+    {
+      "src": "ai?Cz",
+      "tgt": ""
+    },
+    {
+      "src": "*pW",
+      "tgt": ""
+    },
+    {
+      "src": "s,mOW",
+      "tgt": ""
+    }
+  ]
+}

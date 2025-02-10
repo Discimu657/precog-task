@@ -1,0 +1,26 @@
+{
+  "problem_id": "041",
+  "initial_string": "sskgskgkskggl`skg-Cskgi",
+  "transitions": [
+    {
+      "src": "l`-Ci",
+      "tgt": ""
+    },
+    {
+      "src": "iCWK",
+      "tgt": ""
+    },
+    {
+      "src": "skg",
+      "tgt": ""
+    },
+    {
+      "src": "ij\\H?",
+      "tgt": ""
+    },
+    {
+      "src": "@oP/",
+      "tgt": ""
+    }
+  ]
+}

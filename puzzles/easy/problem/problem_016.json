@@ -1,0 +1,26 @@
+{
+  "problem_id": "016",
+  "initial_string": "~*W<M~_a%qN&%q%qNNEW*k)k",
+  "transitions": [
+    {
+      "src": "L`\\f",
+      "tgt": ""
+    },
+    {
+      "src": "W<M)",
+      "tgt": ""
+    },
+    {
+      "src": "%qN",
+      "tgt": ""
+    },
+    {
+      "src": "~*k",
+      "tgt": ""
+    },
+    {
+      "src": "_a&EW",
+      "tgt": ""
+    }
+  ]
+}

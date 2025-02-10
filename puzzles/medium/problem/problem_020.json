@@ -1,0 +1,38 @@
+{
+  "problem_id": "020",
+  "initial_string": "[A<TICTh/~lW\"cuX:,",
+  "transitions": [
+    {
+      "src": "!#@q",
+      "tgt": ""
+    },
+    {
+      "src": "cuX:,",
+      "tgt": ""
+    },
+    {
+      "src": "\"/;i;",
+      "tgt": ""
+    },
+    {
+      "src": "~lW\"",
+      "tgt": "\"/;i;"
+    },
+    {
+      "src": "%h/",
+      "tgt": "cuX:,"
+    },
+    {
+      "src": "pKCT",
+      "tgt": "cuX:,"
+    },
+    {
+      "src": "W-'I",
+      "tgt": "@q%pK"
+    },
+    {
+      "src": "[A<T",
+      "tgt": "!#W-'"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "problem_id": "019",
+  "initial_string": "CdfhL=Ak+ER+",
+  "transitions": [
+    {
+      "src": "fh++",
+      "tgt": ""
+    },
+    {
+      "src": "l~e",
+      "tgt": ""
+    },
+    {
+      "src": "ayB",
+      "tgt": ""
+    },
+    {
+      "src": "Cd",
+      "tgt": "fhl~e"
+    },
+    {
+      "src": "G$R$",
+      "tgt": "fh+++"
+    },
+    {
+      "src": "g+ER",
+      "tgt": "ayBR$"
+    },
+    {
+      "src": "L=Ak",
+      "tgt": "++G$g"
+    }
+  ]
+}

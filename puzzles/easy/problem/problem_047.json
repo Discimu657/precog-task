@@ -1,0 +1,26 @@
+{
+  "problem_id": "047",
+  "initial_string": "JBJB==JBJJB=B=JBJB===",
+  "transitions": [
+    {
+      "src": ",b$B",
+      "tgt": ""
+    },
+    {
+      "src": "q?Q\"l",
+      "tgt": ""
+    },
+    {
+      "src": "ci^",
+      "tgt": ""
+    },
+    {
+      "src": "JB=",
+      "tgt": ""
+    },
+    {
+      "src": "CR`",
+      "tgt": ""
+    }
+  ]
+}

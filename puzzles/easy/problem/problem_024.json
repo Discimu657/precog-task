@@ -1,0 +1,26 @@
+{
+  "problem_id": "024",
+  "initial_string": "m`,q,qsK{i^O|Q!i^Oi^O|Q|QwBSsSm",
+  "transitions": [
+    {
+      "src": "T+?",
+      "tgt": ""
+    },
+    {
+      "src": "i^O|Q",
+      "tgt": ""
+    },
+    {
+      "src": "K{!wB",
+      "tgt": ""
+    },
+    {
+      "src": ",qsS",
+      "tgt": ""
+    },
+    {
+      "src": "m`m",
+      "tgt": ""
+    }
+  ]
+}

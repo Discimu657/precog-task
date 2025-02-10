@@ -1,0 +1,26 @@
+{
+  "problem_id": "038",
+  "initial_string": "PQ&-h=X>nQHQHQH\";K\";K\";KG$xR{",
+  "transitions": [
+    {
+      "src": "PQ{",
+      "tgt": ""
+    },
+    {
+      "src": "QH\";K",
+      "tgt": ""
+    },
+    {
+      "src": "&-hxR",
+      "tgt": ""
+    },
+    {
+      "src": "=X$",
+      "tgt": ""
+    },
+    {
+      "src": ">nG",
+      "tgt": ""
+    }
+  ]
+}

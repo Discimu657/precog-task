@@ -1,0 +1,34 @@
+{
+  "problem_id": "003",
+  "initial_string": "o)HS)T+'~e`>",
+  "transitions": [
+    {
+      "src": "LKEJ",
+      "tgt": ""
+    },
+    {
+      "src": "HS&`",
+      "tgt": ""
+    },
+    {
+      "src": "ecGd",
+      "tgt": ""
+    },
+    {
+      "src": "~u",
+      "tgt": "ecHS&"
+    },
+    {
+      "src": "o)",
+      "tgt": "~u`Gd"
+    },
+    {
+      "src": ")T+'",
+      "tgt": "&LKEJ"
+    },
+    {
+      "src": "~e`>",
+      "tgt": "HS&``"
+    }
+  ]
+}

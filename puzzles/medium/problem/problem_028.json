@@ -1,0 +1,34 @@
+{
+  "problem_id": "028",
+  "initial_string": "Y`&qoFz<&vboFzi",
+  "transitions": [
+    {
+      "src": "vboFz",
+      "tgt": ""
+    },
+    {
+      "src": "YaGk",
+      "tgt": ""
+    },
+    {
+      "src": "$Q<&i",
+      "tgt": ""
+    },
+    {
+      "src": "iKJ~",
+      "tgt": "kYaGk"
+    },
+    {
+      "src": "NAL",
+      "tgt": "aGiKJ"
+    },
+    {
+      "src": "`<",
+      "tgt": "NAL~$"
+    },
+    {
+      "src": "`&q",
+      "tgt": "`<Qvb"
+    }
+  ]
+}

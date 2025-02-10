@@ -1,0 +1,38 @@
+{
+  "problem_id": "016",
+  "initial_string": "&V.rLvImhogAM",
+  "transitions": [
+    {
+      "src": "Imhog",
+      "tgt": ""
+    },
+    {
+      "src": "bPLvA",
+      "tgt": ""
+    },
+    {
+      "src": "<gx>",
+      "tgt": ""
+    },
+    {
+      "src": "QeI",
+      "tgt": "bPLvA"
+    },
+    {
+      "src": "J\"i",
+      "tgt": "hogQe"
+    },
+    {
+      "src": "saM",
+      "tgt": "<gx>I"
+    },
+    {
+      "src": "&Z",
+      "tgt": "ImJ\"i"
+    },
+    {
+      "src": "V.r",
+      "tgt": "ZsabP"
+    }
+  ]
+}

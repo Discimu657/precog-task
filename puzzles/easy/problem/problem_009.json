@@ -1,0 +1,26 @@
+{
+  "problem_id": "009",
+  "initial_string": ";q;gg'}'}g'}g'}g'}q((",
+  "transitions": [
+    {
+      "src": "My&",
+      "tgt": ""
+    },
+    {
+      "src": "g'}",
+      "tgt": ""
+    },
+    {
+      "src": "_]{L",
+      "tgt": ""
+    },
+    {
+      "src": ";q(",
+      "tgt": ""
+    },
+    {
+      "src": "(Rj",
+      "tgt": ""
+    }
+  ]
+}

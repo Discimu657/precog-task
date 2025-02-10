@@ -1,0 +1,34 @@
+{
+  "problem_id": "050",
+  "initial_string": "HcehuXP/",
+  "transitions": [
+    {
+      "src": ":D/",
+      "tgt": ""
+    },
+    {
+      "src": "JCXP",
+      "tgt": ""
+    },
+    {
+      "src": "Hc\"",
+      "tgt": ""
+    },
+    {
+      "src": "KiN|",
+      "tgt": ":DHc\""
+    },
+    {
+      "src": ".)",
+      "tgt": "iN|:D"
+    },
+    {
+      "src": "XUH",
+      "tgt": ".)/JC"
+    },
+    {
+      "src": "ehu",
+      "tgt": "\"KXUH"
+    }
+  ]
+}

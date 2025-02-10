@@ -1,0 +1,26 @@
+{
+  "problem_id": "015",
+  "initial_string": "\\Hr(\\Hr(<v\\Hr\\H\\Hr(<\\Hr(<r(<(<Gp<",
+  "transitions": [
+    {
+      "src": "\\Hr(<",
+      "tgt": ""
+    },
+    {
+      "src": "\"&m,",
+      "tgt": ""
+    },
+    {
+      "src": "vGp",
+      "tgt": ""
+    },
+    {
+      "src": "EV$\\T",
+      "tgt": ""
+    },
+    {
+      "src": "Y\\;",
+      "tgt": ""
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "030",
+  "initial_string": "_Xt/x;~FK]%K",
+  "transitions": [
+    {
+      "src": "_-#-",
+      "tgt": ""
+    },
+    {
+      "src": "T>p",
+      "tgt": ""
+    },
+    {
+      "src": "XKQIg",
+      "tgt": ""
+    },
+    {
+      "src": "l%K",
+      "tgt": "XKQIg"
+    },
+    {
+      "src": "K]",
+      "tgt": "KQIgl"
+    },
+    {
+      "src": "eX~F",
+      "tgt": "_-#-X"
+    },
+    {
+      "src": "dx;",
+      "tgt": "-#-eX"
+    },
+    {
+      "src": "t/",
+      "tgt": "KQIgd"
+    }
+  ]
+}

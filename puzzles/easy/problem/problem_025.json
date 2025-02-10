@@ -1,0 +1,26 @@
+{
+  "problem_id": "025",
+  "initial_string": "Ex~WkEx~Ex~Ex~WkWEEx~Wkx~WkkWkEx~Wk",
+  "transitions": [
+    {
+      "src": "_@P([",
+      "tgt": ""
+    },
+    {
+      "src": "FLW(>",
+      "tgt": ""
+    },
+    {
+      "src": "Ex~Wk",
+      "tgt": ""
+    },
+    {
+      "src": "{PX\"b",
+      "tgt": ""
+    },
+    {
+      "src": "ihN",
+      "tgt": ""
+    }
+  ]
+}

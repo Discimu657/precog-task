@@ -1,0 +1,26 @@
+{
+  "problem_id": "032",
+  "initial_string": "|I?o#~SaBI?o#I?o#R.I?o#|M_I?o#",
+  "transitions": [
+    {
+      "src": "|~Sa_",
+      "tgt": ""
+    },
+    {
+      "src": "Bo>",
+      "tgt": ""
+    },
+    {
+      "src": "BR.|M",
+      "tgt": ""
+    },
+    {
+      "src": "I?o#",
+      "tgt": ""
+    },
+    {
+      "src": "|e_",
+      "tgt": ""
+    }
+  ]
+}

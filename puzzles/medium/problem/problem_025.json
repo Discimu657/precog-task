@@ -1,0 +1,38 @@
+{
+  "problem_id": "025",
+  "initial_string": "xxdtMq@c",
+  "transitions": [
+    {
+      "src": "j=WD/",
+      "tgt": ""
+    },
+    {
+      "src": ".q*",
+      "tgt": ""
+    },
+    {
+      "src": "xdt?/",
+      "tgt": ""
+    },
+    {
+      "src": "g%",
+      "tgt": "j=WD/"
+    },
+    {
+      "src": "Z>x",
+      "tgt": "g.q*%"
+    },
+    {
+      "src": "Bc",
+      "tgt": ">x.q*"
+    },
+    {
+      "src": "E{",
+      "tgt": "t?/ZB"
+    },
+    {
+      "src": "Mq@",
+      "tgt": "?/dE{"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "045",
+  "initial_string": "Ob@/'X}:z|",
+  "transitions": [
+    {
+      "src": "^.l",
+      "tgt": ""
+    },
+    {
+      "src": "xN:z|",
+      "tgt": ""
+    },
+    {
+      "src": "bHE=",
+      "tgt": ""
+    },
+    {
+      "src": "wt?",
+      "tgt": "xN:z|"
+    },
+    {
+      "src": "Of}y",
+      "tgt": "w^.lt"
+    },
+    {
+      "src": "~u",
+      "tgt": "ybHE="
+    },
+    {
+      "src": "'X}",
+      "tgt": "~u?xN"
+    },
+    {
+      "src": "@/",
+      "tgt": "HE=f}"
+    }
+  ]
+}

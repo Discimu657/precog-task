@@ -1,0 +1,26 @@
+{
+  "problem_id": "021",
+  "initial_string": "{{\\K\\\\K\\K((K((h\\K(\\K(",
+  "transitions": [
+    {
+      "src": "{{h",
+      "tgt": ""
+    },
+    {
+      "src": "k\"+?",
+      "tgt": ""
+    },
+    {
+      "src": "\\K(",
+      "tgt": ""
+    },
+    {
+      "src": "ki-",
+      "tgt": ""
+    },
+    {
+      "src": "zpA)'",
+      "tgt": ""
+    }
+  ]
+}

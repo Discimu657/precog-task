@@ -1,0 +1,26 @@
+{
+  "problem_id": "017",
+  "initial_string": "f*[?l~bW[?l~b;=:f*[?[?l~bl~bWBfXwBf",
+  "transitions": [
+    {
+      "src": "[?l~b",
+      "tgt": ""
+    },
+    {
+      "src": "f*WBf",
+      "tgt": ""
+    },
+    {
+      "src": "GMhdr",
+      "tgt": ""
+    },
+    {
+      "src": "aJI*",
+      "tgt": ""
+    },
+    {
+      "src": ";=:Xw",
+      "tgt": ""
+    }
+  ]
+}

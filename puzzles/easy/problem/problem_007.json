@@ -1,0 +1,26 @@
+{
+  "problem_id": "007",
+  "initial_string": "M$iWfM$iM$i(;M$iE)M$ior",
+  "transitions": [
+    {
+      "src": "Z|ZJZ",
+      "tgt": ""
+    },
+    {
+      "src": "cGN,<",
+      "tgt": ""
+    },
+    {
+      "src": "Wor",
+      "tgt": ""
+    },
+    {
+      "src": "f(;E)",
+      "tgt": ""
+    },
+    {
+      "src": "M$i",
+      "tgt": ""
+    }
+  ]
+}

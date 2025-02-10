@@ -1,0 +1,26 @@
+{
+  "problem_id": "023",
+  "initial_string": "'BCz''BC'BC'BCBCv'BCf\"",
+  "transitions": [
+    {
+      "src": "cgIHC",
+      "tgt": ""
+    },
+    {
+      "src": "}O$",
+      "tgt": ""
+    },
+    {
+      "src": "_oFu",
+      "tgt": ""
+    },
+    {
+      "src": "'BC",
+      "tgt": ""
+    },
+    {
+      "src": "zvf\"",
+      "tgt": ""
+    }
+  ]
+}

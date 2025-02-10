@@ -1,0 +1,26 @@
+{
+  "problem_id": "029",
+  "initial_string": "))h-h-)h-)h-)))h-h-h-",
+  "transitions": [
+    {
+      "src": ")h-",
+      "tgt": ""
+    },
+    {
+      "src": "\\jZF",
+      "tgt": ""
+    },
+    {
+      "src": "Tv_",
+      "tgt": ""
+    },
+    {
+      "src": "=dv",
+      "tgt": ""
+    },
+    {
+      "src": "qZ[Jk",
+      "tgt": ""
+    }
+  ]
+}

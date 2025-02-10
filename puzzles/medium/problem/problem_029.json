@@ -1,0 +1,38 @@
+{
+  "problem_id": "029",
+  "initial_string": ">~~EkJ~EzZ*",
+  "transitions": [
+    {
+      "src": "iE^",
+      "tgt": ""
+    },
+    {
+      "src": "\\H~q]",
+      "tgt": ""
+    },
+    {
+      "src": "~EkJ",
+      "tgt": ""
+    },
+    {
+      "src": "'Pi_",
+      "tgt": "\\H~q]"
+    },
+    {
+      "src": ">yy",
+      "tgt": "'iE^P"
+    },
+    {
+      "src": "~fh@",
+      "tgt": "Jyyi_"
+    },
+    {
+      "src": "zM!",
+      "tgt": "kJEk~"
+    },
+    {
+      "src": "Z*",
+      "tgt": "M!fh@"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "problem_id": "007",
+  "initial_string": "`T=$yPSxy'M",
+  "transitions": [
+    {
+      "src": "nB?",
+      "tgt": ""
+    },
+    {
+      "src": "cE$y'",
+      "tgt": ""
+    },
+    {
+      "src": "wv:",
+      "tgt": ""
+    },
+    {
+      "src": "d[w",
+      "tgt": "Bwv:?"
+    },
+    {
+      "src": "&}M",
+      "tgt": "wv:[w"
+    },
+    {
+      "src": "`T=",
+      "tgt": "nd&cE"
+    },
+    {
+      "src": "PSx",
+      "tgt": "'}cE$"
+    }
+  ]
+}

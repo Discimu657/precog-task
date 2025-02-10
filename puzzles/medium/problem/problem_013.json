@@ -1,0 +1,34 @@
+{
+  "problem_id": "013",
+  "initial_string": "{h,{O&j|V",
+  "transitions": [
+    {
+      "src": ",SA",
+      "tgt": ""
+    },
+    {
+      "src": "akrS)",
+      "tgt": ""
+    },
+    {
+      "src": "{L^",
+      "tgt": ""
+    },
+    {
+      "src": ",=cV",
+      "tgt": "L^{L^"
+    },
+    {
+      "src": "+|",
+      "tgt": ",SA=c"
+    },
+    {
+      "src": "h/Lo",
+      "tgt": ",+{L^"
+    },
+    {
+      "src": "{O&j",
+      "tgt": "SA/Lo"
+    }
+  ]
+}

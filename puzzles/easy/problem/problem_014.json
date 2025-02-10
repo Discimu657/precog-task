@@ -1,0 +1,26 @@
+{
+  "problem_id": "014",
+  "initial_string": "EqD-D-D-%%%D-D-%%rD-%",
+  "transitions": [
+    {
+      "src": "Pg,?",
+      "tgt": ""
+    },
+    {
+      "src": "Eqr",
+      "tgt": ""
+    },
+    {
+      "src": "D-%",
+      "tgt": ""
+    },
+    {
+      "src": "\\ON",
+      "tgt": ""
+    },
+    {
+      "src": "z|he:",
+      "tgt": ""
+    }
+  ]
+}

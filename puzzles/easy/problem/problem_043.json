@@ -1,0 +1,26 @@
+{
+  "problem_id": "043",
+  "initial_string": "(@{DEySDEDEySDEySySYDEyS=DEyS",
+  "transitions": [
+    {
+      "src": "DEyS",
+      "tgt": ""
+    },
+    {
+      "src": "<\\mYS",
+      "tgt": ""
+    },
+    {
+      "src": "}Bj",
+      "tgt": ""
+    },
+    {
+      "src": "'lp-",
+      "tgt": ""
+    },
+    {
+      "src": "(@{Y=",
+      "tgt": ""
+    }
+  ]
+}

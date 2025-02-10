@@ -1,0 +1,26 @@
+{
+  "problem_id": "005",
+  "initial_string": "PFPFV\\QN'iD'i'iDDU'iDJ{cV{c",
+  "transitions": [
+    {
+      "src": "PFV{c",
+      "tgt": ""
+    },
+    {
+      "src": "'iD",
+      "tgt": ""
+    },
+    {
+      "src": "VJWk",
+      "tgt": ""
+    },
+    {
+      "src": "\\QNUJ",
+      "tgt": ""
+    },
+    {
+      "src": "<CAu}",
+      "tgt": ""
+    }
+  ]
+}

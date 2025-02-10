@@ -1,0 +1,26 @@
+{
+  "problem_id": "037",
+  "initial_string": "N-,,RyfzQ+f++fo|fo|o|`%|R%|t",
+  "transitions": [
+    {
+      "src": ",R%|",
+      "tgt": ""
+    },
+    {
+      "src": "g!;tw",
+      "tgt": ""
+    },
+    {
+      "src": "+fo|",
+      "tgt": ""
+    },
+    {
+      "src": "yfzQ`",
+      "tgt": ""
+    },
+    {
+      "src": "N-t",
+      "tgt": ""
+    }
+  ]
+}

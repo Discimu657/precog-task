@@ -1,0 +1,26 @@
+{
+  "problem_id": "045",
+  "initial_string": "?J$b;,u?J$t?J$<?J$_\"?J$&",
+  "transitions": [
+    {
+      "src": "JOLWZ",
+      "tgt": ""
+    },
+    {
+      "src": "ut<_\"",
+      "tgt": ""
+    },
+    {
+      "src": "b;,&",
+      "tgt": ""
+    },
+    {
+      "src": "'SU",
+      "tgt": ""
+    },
+    {
+      "src": "?J$",
+      "tgt": ""
+    }
+  ]
+}

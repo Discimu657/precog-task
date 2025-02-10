@@ -1,0 +1,26 @@
+{
+  "problem_id": "042",
+  "initial_string": "oohoGF,GFGF,GF,,h</</h</",
+  "transitions": [
+    {
+      "src": "kt>P",
+      "tgt": ""
+    },
+    {
+      "src": "GF,",
+      "tgt": ""
+    },
+    {
+      "src": "xG(",
+      "tgt": ""
+    },
+    {
+      "src": "oh</",
+      "tgt": ""
+    },
+    {
+      "src": "'Q|`a",
+      "tgt": ""
+    }
+  ]
+}

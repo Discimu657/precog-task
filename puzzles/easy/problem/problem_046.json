@@ -1,0 +1,26 @@
+{
+  "problem_id": "046",
+  "initial_string": "}}V}VNNVN}VN}VN}VN}VN",
+  "transitions": [
+    {
+      "src": "?eB",
+      "tgt": ""
+    },
+    {
+      "src": "({$",
+      "tgt": ""
+    },
+    {
+      "src": "E-T=\\",
+      "tgt": ""
+    },
+    {
+      "src": "}VN",
+      "tgt": ""
+    },
+    {
+      "src": "Ds~",
+      "tgt": ""
+    }
+  ]
+}

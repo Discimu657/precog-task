@@ -1,0 +1,38 @@
+{
+  "problem_id": "042",
+  "initial_string": "|v|vy,|@j",
+  "transitions": [
+    {
+      "src": "|vy,",
+      "tgt": ""
+    },
+    {
+      "src": "cZ.O*",
+      "tgt": ""
+    },
+    {
+      "src": "TZvC;",
+      "tgt": ""
+    },
+    {
+      "src": "kt",
+      "tgt": "cZ.O*"
+    },
+    {
+      "src": "mWo",
+      "tgt": "|vy,k"
+    },
+    {
+      "src": "<IA~",
+      "tgt": ",mWot"
+    },
+    {
+      "src": ":<",
+      "tgt": ",y<IA"
+    },
+    {
+      "src": "@j",
+      "tgt": "vy:<~"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "041",
+  "initial_string": "nwl'YU*f,y*fyy",
+  "transitions": [
+    {
+      "src": "Fgms+",
+      "tgt": ""
+    },
+    {
+      "src": ",y*fy",
+      "tgt": ""
+    },
+    {
+      "src": "*WwE",
+      "tgt": ""
+    },
+    {
+      "src": "n.I$",
+      "tgt": ",y*fy"
+    },
+    {
+      "src": "B'dA",
+      "tgt": "wE.I$"
+    },
+    {
+      "src": "yc",
+      "tgt": "y*fyW"
+    },
+    {
+      "src": "'YU",
+      "tgt": "'dA,y"
+    },
+    {
+      "src": "wl",
+      "tgt": "*,ycB"
+    }
+  ]
+}

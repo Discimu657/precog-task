@@ -1,0 +1,26 @@
+{
+  "problem_id": "049",
+  "initial_string": "vRnRnxFxFRnxFRnxRnxFF:RnxFM",
+  "transitions": [
+    {
+      "src": "M+o",
+      "tgt": ""
+    },
+    {
+      "src": "XLR[",
+      "tgt": ""
+    },
+    {
+      "src": "v:M",
+      "tgt": ""
+    },
+    {
+      "src": "}RI",
+      "tgt": ""
+    },
+    {
+      "src": "RnxF",
+      "tgt": ""
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "031",
+  "initial_string": "@o/_hMattoW>{",
+  "transitions": [
+    {
+      "src": "Mat",
+      "tgt": ""
+    },
+    {
+      "src": "@@NQK",
+      "tgt": ""
+    },
+    {
+      "src": "o/_Gn",
+      "tgt": ""
+    },
+    {
+      "src": "cib",
+      "tgt": "o/_Gn"
+    },
+    {
+      "src": ")&@",
+      "tgt": "@NQKc"
+    },
+    {
+      "src": "htk~",
+      "tgt": "Gn)&@"
+    },
+    {
+      "src": "WFp",
+      "tgt": "/_Gnk"
+    },
+    {
+      "src": ">{",
+      "tgt": "Fp~ib"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "problem_id": "024",
+  "initial_string": "xt=XcFj-dx",
+  "transitions": [
+    {
+      "src": "xtIq~",
+      "tgt": ""
+    },
+    {
+      "src": "=XcFj",
+      "tgt": ""
+    },
+    {
+      "src": "w,;",
+      "tgt": ""
+    },
+    {
+      "src": "<D",
+      "tgt": "xtIq~"
+    },
+    {
+      "src": "U+,",
+      "tgt": "<w,;D"
+    },
+    {
+      "src": "sltz",
+      "tgt": "w,;+,"
+    },
+    {
+      "src": "=x",
+      "tgt": "q~Usl"
+    },
+    {
+      "src": "-dx",
+      "tgt": "I=xtz"
+    }
+  ]
+}

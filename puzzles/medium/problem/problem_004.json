@@ -1,0 +1,34 @@
+{
+  "problem_id": "004",
+  "initial_string": "@i^G{~H\\*\\",
+  "transitions": [
+    {
+      "src": "CA<",
+      "tgt": ""
+    },
+    {
+      "src": "^DI\\",
+      "tgt": ""
+    },
+    {
+      "src": "hln",
+      "tgt": ""
+    },
+    {
+      "src": ";<?",
+      "tgt": "DhlnI"
+    },
+    {
+      "src": "od*",
+      "tgt": "^DI\\?"
+    },
+    {
+      "src": "@i",
+      "tgt": "^;<od"
+    },
+    {
+      "src": "G{~H",
+      "tgt": "DIhln"
+    }
+  ]
+}

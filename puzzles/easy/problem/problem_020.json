@@ -1,0 +1,26 @@
+{
+  "problem_id": "020",
+  "initial_string": ";;eV$fj$fj$fj<JTOc$fjrWOcrW",
+  "transitions": [
+    {
+      "src": "$fj",
+      "tgt": ""
+    },
+    {
+      "src": ";OcrW",
+      "tgt": ""
+    },
+    {
+      "src": "`nmZ",
+      "tgt": ""
+    },
+    {
+      "src": "~>s)z",
+      "tgt": ""
+    },
+    {
+      "src": "eV<JT",
+      "tgt": ""
+    }
+  ]
+}

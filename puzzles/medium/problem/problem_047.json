@@ -1,0 +1,38 @@
+{
+  "problem_id": "047",
+  "initial_string": "OHgOJP+JSO",
+  "transitions": [
+    {
+      "src": "`{,",
+      "tgt": ""
+    },
+    {
+      "src": "OH@g=",
+      "tgt": ""
+    },
+    {
+      "src": "bKzz",
+      "tgt": ""
+    },
+    {
+      "src": "vvf",
+      "tgt": "OH@g="
+    },
+    {
+      "src": "q?",
+      "tgt": "g=vvf"
+    },
+    {
+      "src": "gO",
+      "tgt": "@qbKz"
+    },
+    {
+      "src": "JP+",
+      "tgt": "z?bKz"
+    },
+    {
+      "src": "JSO",
+      "tgt": "bKzzz"
+    }
+  ]
+}

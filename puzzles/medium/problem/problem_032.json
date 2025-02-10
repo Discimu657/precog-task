@@ -1,0 +1,38 @@
+{
+  "problem_id": "032",
+  "initial_string": "hJ)TQZs!Kv/-WEa-MM",
+  "transitions": [
+    {
+      "src": "QksKv",
+      "tgt": ""
+    },
+    {
+      "src": "WEa-M",
+      "tgt": ""
+    },
+    {
+      "src": "Si&'",
+      "tgt": ""
+    },
+    {
+      "src": "hHxq",
+      "tgt": "QksKv"
+    },
+    {
+      "src": "%TJ",
+      "tgt": "xqWEa"
+    },
+    {
+      "src": "u}u/",
+      "tgt": "Kv%TJ"
+    },
+    {
+      "src": "Zs!",
+      "tgt": "}uQks"
+    },
+    {
+      "src": "J)TQ",
+      "tgt": "HQksu"
+    }
+  ]
+}
